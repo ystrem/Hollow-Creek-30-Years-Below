@@ -1,0 +1,6 @@
+{
+  "name": "Hollow Creek: 30 Years Below",
+  "description": "A 2D side-view cross-section underground colony survival strategy game spanning 30 years of excavation, generational change, laws, and survival.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
